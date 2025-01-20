@@ -27,6 +27,9 @@ collections:
   snippets:
     output: true
     permalink: "/snippet/:title"
+  links:
+    output: true
+    permalink: "/:title"
 
 defaults:
   - scope:
