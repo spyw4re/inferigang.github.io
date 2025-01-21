@@ -9,5 +9,5 @@ description: red team & offsec lover.
 github_url: https://github.com/oppsec
 twitter_url: https://x.com/opps3c
 pt:
-  description: Web Hacking, Pythob
+  description: red team & offsec lover.
 ---
