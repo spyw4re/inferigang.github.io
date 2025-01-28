@@ -86,8 +86,8 @@ tr:
     "Wallpapers": Wallpapers
     "Snippets": Snippets
 
-    "Members": Members
-    "next_page": Próximo página
+    "Members": Membros
+    "next_page": Próxima página
     "previous_page": Página anterior
     "footer_explore": Explorar
     "footer_others": Outros
@@ -96,7 +96,7 @@ tr:
     "read_more": Ler mais
     "read_in_page": Ler na página
     "keep_reading": Continue lendo
-    "view_code": View code
+    "view_code": Ver código
 
     # Home labels
     "author_connect_on": Junte-se à nós
