@@ -8,8 +8,6 @@ banner: api-hooking.png
 description: "Uma visão introdutória sobre o que é, como funciona e aplicações práticas da técnica de API Hooking utilizada em soluções de defesas como AV/EDR."
 ---
 
-# Understanding API Hooking
-
 Uma das principais formas de detecção de malware em runtime utilizada por AV’s e EDR’s, é a chamada técnica de API Hooking, neste artigo vou introduzir bem levianamente sobre esse conceito, como funciona e como é aplicado (não parta da premissa que hooks só podem ser implementados dessa forma, no artigo vou demonstrar só uma das maneiras de realizar essa ação, existes diversas outras, boa leitura 🤗).
 
 ## API Hooking

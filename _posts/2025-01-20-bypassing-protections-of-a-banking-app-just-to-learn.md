@@ -9,8 +9,6 @@ author: Daniel Moura
 author_nickname: oppsec
 ---
 
-# Bypassing protections of a banking app just to learn
-
 ## Summary
 
 1. Introduction

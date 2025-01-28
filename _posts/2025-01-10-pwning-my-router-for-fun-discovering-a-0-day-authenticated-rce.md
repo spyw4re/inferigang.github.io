@@ -9,8 +9,6 @@ author: Daniel Moura
 author_nickname: oppsec
 ---
 
-# Discovering a 0-day Authenticated RCE on my router
-
 ## Summary
 
 1. Introduction
