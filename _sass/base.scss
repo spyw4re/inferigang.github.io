@@ -748,13 +748,22 @@ table {
 .members-list {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
-  gap: 1rem;
+  gap: 2rem;
   list-style: none;
 }
 
 .member-item {
   @include flex(column, $gap: .5rem);
   max-width: 24rem;
+  padding: 1rem;
+  border: 1px solid var(--accent-bg-color-lighter);
+  border-radius: 1rem;
+  transition: .2s;
+}
+
+.member-item:hover {
+  background-color: var(--accent-bg-color-lighter);
+  transition: .2s;
 }
 
 .member-avatar {
