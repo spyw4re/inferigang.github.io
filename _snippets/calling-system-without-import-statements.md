@@ -1,7 +1,7 @@
 ---
 layout: raw_code
 lang: en
-title: Calling os.system without import statements
+title: Calling os.system Without import Statements
 author: Ricardo
 author_url:
 author_nickname: astreuw
